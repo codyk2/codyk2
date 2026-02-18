@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codyk2&color=blue&style=flat-square&label=Profile+Views)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Cody+Kandarian;Data+Science+%40+Baylor+University;Incoming+Data+Engineer+%40+SpaceX;Building+Systems+That+Matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Cody+Kandarian;Data+Science+%40+Baylor+University;Incoming+Software+Engineer+%40+SpaceX;Building+Systems+That+Matter)](https://git.io/typing-svg)
 
 **Data Science @ Baylor University '27** · Mathematics & Business Administration  
 Building data systems that power real-world decisions — from spectrum management to rocket reliability.
@@ -16,7 +16,7 @@ Building data systems that power real-world decisions — from spectrum manageme
 
 ### What I'm Working On
 
-- **Incoming Data Engineer @ SpaceX** — Test Reliability team (McGregor, TX) · Summer 2026
+- **Incoming Software Engineer @ SpaceX** — Test Reliability team (McGregor, TX) · Summer 2026
 - **Undergraduate Researcher @ Baylor SMART Hub** — Dynamic Spectrum Access systems for military radar protection in the 3.1–3.45 GHz band
 - **ECS Ambassador** — Baylor School of Engineering & Computer Science
 
@@ -84,11 +84,3 @@ Designed a PostgreSQL database to store 1,530+ NFL player projections from CBS, 
 ### Beyond Code
 
 Outside of work and academics, you'll usually find me staying active or diving into something new. I completed the **Half Ironman Waco**, and the grit that comes from endurance training has shaped how I approach just about everything. I'm also an avid reader — anything from tech to a story that makes me see the world a little differently. I love tinkering with startup ideas and exploring how technology can tackle real problems. My faith as a Christian is at the center of it all — it gives me purpose, keeps me grounded, and drives me to use my gifts to make a meaningful impact. At my core, I'm driven by curiosity, purpose, and the people on this earth.
-
----
-
-<div align="center">
-
-*"The only way to do great work is to love what you do."*
-
-</div>
