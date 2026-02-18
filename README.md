@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codyk2&color=blue&style=flat-square&label=Profile+Views)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Cody+Kandarian+%F0%9F%91%8B;Data+Science+%40+Baylor+University;Incoming+Data+Engineer+%40+SpaceX;Building+Systems+That+Matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Cody+Kandarian;Data+Science+%40+Baylor+University;Incoming+Data+Engineer+%40+SpaceX;Building+Systems+That+Matter)](https://git.io/typing-svg)
 
 **Data Science @ Baylor University '27** · Mathematics & Business Administration  
 Building data systems that power real-world decisions — from spectrum management to rocket reliability.
@@ -14,13 +14,13 @@ Building data systems that power real-world decisions — from spectrum manageme
 
 ---
 
-### 🚀 What I'm Working On
+### What I'm Working On
 
 - **Incoming Data Engineer @ SpaceX** — Test Reliability team (McGregor, TX) · Summer 2026
 - **Undergraduate Researcher @ Baylor SMART Hub** — Dynamic Spectrum Access systems for military radar protection in the 3.1–3.45 GHz band
 - **ECS Ambassador** — Baylor School of Engineering & Computer Science
 
-### 💼 Experience
+### Experience
 
 **Software Engineering Co-op · Keysight Technologies** · *May 2025 – Aug 2025*  
 Developed an open-source Particle Swarm Optimization framework for Keysight ADS, reducing RF circuit design time from weeks to automated processing. Built a 3D Smith tube visualization tool using PyQtGraph for real-time optimization trajectory analysis with 1,000+ data points per frequency. Architected a Python optimization engine processing 5D performance arrays across frequency and impedance sweeps with custom fitness functions. Integrated the framework with Keysight ADS through file I/O protocols and AEL scripting for automated simulation workflows.
@@ -31,12 +31,12 @@ Built a Dynamic Spectrum Access system for real-time interference protection of 
 **ECS Ambassador · Baylor School of Engineering & Computer Science** · *Nov 2024 – Present*  
 Represent the School of Engineering and Computer Science at recruitment events, tours, and community outreach. Collaborate with admissions, faculty, and staff to plan and execute major recruiting events including Invitation to Excellence, Distinguished Scholars Day, and Baylor Bound.
 
-### 🔧 Projects
+### Projects
 
 **Fantasy Football Statistical Analysis** · *Python, SQL, PostgreSQL, R, Pandas*  
 Designed a PostgreSQL database to store 1,530+ NFL player projections from CBS, ESPN, and Yahoo with a normalized schema. Built a Python ETL script to web-scrape projection data and load into PostgreSQL with data validation and error handling. Performed statistical analysis using R and SQL to identify high-value draft positions and player tiers based on fantasy point distributions.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -69,7 +69,7 @@ Designed a PostgreSQL database to store 1,530+ NFL player projections from CBS, 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Designed a PostgreSQL database to store 1,530+ NFL player projections from CBS, 
 
 </div>
 
-### 🏃 Beyond Code
+### Beyond Code
 
 Outside of work and academics, you'll usually find me staying active or diving into something new. I completed the **Half Ironman Waco**, and the grit that comes from endurance training has shaped how I approach just about everything. I'm also an avid reader — anything from tech to a story that makes me see the world a little differently. I love tinkering with startup ideas and exploring how technology can tackle real problems. My faith as a Christian is at the center of it all — it gives me purpose, keeps me grounded, and drives me to use my gifts to make a meaningful impact. At my core, I'm driven by curiosity, purpose, and the people on this earth.
 
