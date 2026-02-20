@@ -30,11 +30,6 @@ Developed a Django-based Dynamic Spectrum Access system with real-time interfere
 **ECS Ambassador · Baylor School of Engineering & Computer Science** · *Nov 2024 – Present*  
 Represent the school at recruitment events and help plan major recruiting initiatives including Invitation to Excellence and Distinguished Scholars Day.
 
-### Projects
-
-**Fantasy Football Statistical Analysis** · *Python, SQL, PostgreSQL, R, Pandas*  
-Built a PostgreSQL database and ETL pipeline for 1,530+ NFL player projections, then used R and SQL to identify high-value draft positions and player tiers.
-
 ### Tech Stack
 
 **Languages**  
