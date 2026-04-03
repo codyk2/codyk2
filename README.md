@@ -64,13 +64,7 @@ Represent the school at recruitment events and help plan major recruiting initia
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 
-### GitHub Stats
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=codyk2&theme=tokyonight&hide_border=true&background=0d1117)
-
-</div>
 
 ### Beyond Code
 
